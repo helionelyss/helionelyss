@@ -46,6 +46,13 @@
 
 ---
 
+## ⚠️ Conta Anterior
+
+> Para referência histórica, minha conta anterior era [helionelys](https://github.com/helionelys)  
+> Essa conta não está mais ativa, mas alguns projetos antigos podem ser encontrados lá.
+
+---
+
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
