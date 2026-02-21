@@ -55,7 +55,7 @@
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- [LinkedIn](https://br.linkedin.com/in/helionelys-barbosa-25620351)
 - [Twitter](https://twitter.com/seu-perfil)  
 - ✉️ helionelys@example.com  
 
